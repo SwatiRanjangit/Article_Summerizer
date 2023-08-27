@@ -12,7 +12,7 @@ const Hero = () => {
           type="button"
           onClick={() =>
             window.open(
-              "https://github.com/BhavyaRohilla/OpenAI_ARticle_summarizer",
+              "https://github.com/SwatiRanjangit/Article_Summerizer",
               "_blank"
             )
           }
